@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/github/actions/workflow/status/larynx23/se-lab/maven.yml?branch=main)
+![License](https://img.shields.io/github/license/larynx23/se-lab)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
